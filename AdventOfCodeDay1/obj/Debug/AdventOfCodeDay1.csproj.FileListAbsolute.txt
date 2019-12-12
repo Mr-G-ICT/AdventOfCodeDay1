@@ -1,0 +1,7 @@
+E:\StMarys2018\Year 12 Computing - Programming\AdventOfCodeDay1\AdventOfCodeDay1\bin\Debug\AdventOfCodeDay1.exe.config
+E:\StMarys2018\Year 12 Computing - Programming\AdventOfCodeDay1\AdventOfCodeDay1\bin\Debug\AdventOfCodeDay1.exe
+E:\StMarys2018\Year 12 Computing - Programming\AdventOfCodeDay1\AdventOfCodeDay1\bin\Debug\AdventOfCodeDay1.pdb
+E:\StMarys2018\Year 12 Computing - Programming\AdventOfCodeDay1\AdventOfCodeDay1\obj\Debug\AdventOfCodeDay1.csprojResolveAssemblyReference.cache
+E:\StMarys2018\Year 12 Computing - Programming\AdventOfCodeDay1\AdventOfCodeDay1\obj\Debug\AdventOfCodeDay1.exe
+E:\StMarys2018\Year 12 Computing - Programming\AdventOfCodeDay1\AdventOfCodeDay1\obj\Debug\AdventOfCodeDay1.pdb
+E:\StMarys2018\Year 12 Computing - Programming\AdventOfCodeDay1\AdventOfCodeDay1\bin\Debug\input.txt
